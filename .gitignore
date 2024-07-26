@@ -168,4 +168,4 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-.creds.py
+*.creds.py
